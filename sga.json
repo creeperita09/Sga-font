@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Standard galactic alphabet",
+    "previewText": "The Quick Brown Delphox Jumped Over The Lazy Dragalge",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/creeperita09/Sga-font/raw/refs/heads/main/galactic-simple.ttf",
+        "ggsans-Bold": "https://github.com/creeperita09/Sga-font/raw/refs/heads/main/galactic-simple.ttf",
+        "ggsans-BoldItalic": "https://github.com/creeperita09/Sga-font/raw/refs/heads/main/galactic-simple.ttf",
+        "ggsans-ExtraBold": "https://github.com/creeperita09/Sga-font/raw/refs/heads/main/galactic-simple.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/creeperita09/Sga-font/raw/refs/heads/main/galactic-simple.ttf",
+        "ggsans-Medium": "https://github.com/creeperita09/Sga-font/raw/refs/heads/main/galactic-simple.ttf",
+        "ggsans-MediumItalic": "https://github.com/creeperita09/Sga-font/raw/refs/heads/main/galactic-simple.ttf",
+        "ggsans-Normal": "https://github.com/creeperita09/Sga-font/raw/refs/heads/main/galactic-simple.ttf",
+        "ggsans-NormalItalic": "https://github.com/creeperita09/Sga-font/raw/refs/heads/main/galactic-simple.ttf",
+        "ggsans-Semibold": "https://github.com/creeperita09/Sga-font/raw/refs/heads/main/galactic-simple.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/creeperita09/Sga-font/raw/refs/heads/main/galactic-simple.ttf",
+        "NotoSans-Bold": "https://github.com/creeperita09/Sga-font/raw/refs/heads/main/galactic-simple.ttf",
+        "NotoSans-ExtraBold": "https://github.com/creeperita09/Sga-font/raw/refs/heads/main/galactic-simple.ttf",
+        "NotoSans-Medium": "https://github.com/creeperita09/Sga-font/raw/refs/heads/main/galactic-simple.ttf",
+        "NotoSans-Normal": "https://github.com/creeperita09/Sga-font/raw/refs/heads/main/galactic-simple.ttf",
+        "NotoSans-NormalItalic": "https://github.com/creeperita09/Sga-font/raw/refs/heads/main/galactic-simple.ttf",
+        "NotoSans-Semibold": "https://github.com/creeperita09/Sga-font/raw/refs/heads/main/galactic-simple.ttf",
+        "SourceCodePro-Semibold": "https://github.com/creeperita09/Sga-font/raw/refs/heads/main/galactic-simple.ttf"
+    }
+}
